@@ -1,0 +1,49 @@
+header {
+    background-color: purple;
+    color: lavender;
+    border: 2px solid indigo;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+main {
+    background-color: magenta;
+    color: lavender;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+footer {
+    background-color: indigo;
+    color: lavender;
+}
+
+.st-bt {
+    width: 12em;
+    height: 5ex;
+    background-color: cyan;
+    border: 2px solid silver;
+    border-radius: 10px;
+    font-weight: bold;
+    color: indigo;
+    cursor: pointer;
+}
+.txt{
+    font-weight: bold;
+}
+.txt2{
+    font-weight: bold;
+    border: 2px solid indigo;
+}
+.btn{
+    width: 10em;
+    height: 5ex;
+    background-color: lime;
+    border: 2px solid silver;
+    border-radius: 10px;
+    font-weight: bold;
+    color: indigo;
+    cursor: pointer;
+}
